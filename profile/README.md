@@ -1,6 +1,4 @@
-# COM-MA
-
-AI 카메라 기반 수화 학습 교육 서비스
+# COM-MA | AI 카메라 기반 수화 학습 교육 서비스
 
 
 ![Slide 16_9 - 131](https://github.com/user-attachments/assets/73081a54-17d0-4054-b15d-5892cac4d234)
