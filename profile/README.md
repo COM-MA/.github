@@ -75,7 +75,7 @@ COM-MA는 농인 부모와 어린이 코다의 '교류'와 '수화 교육'을 �
 
 
 
-## Green을 소개합니다!
+## Green 팀을 소개합니다!
 
 ![image](https://github.com/user-attachments/assets/23752fcd-94c8-4145-b53c-1cbf283bd505)
 ![image](https://github.com/user-attachments/assets/b5daf7d6-7631-490b-88bc-4b48e0fbbee7)
